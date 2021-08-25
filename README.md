@@ -17,3 +17,8 @@ Temos a disposição as ortofotos de 2004 com resolução espacial de 12cm, assi
 ## Resultados
 
 Os resultados, assim que processados ficarão à disposição na pasta resultados
+
+## Referências
+
+* https://geoscripting-wur.github.io/PythonRaster/
+* 
