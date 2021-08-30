@@ -21,4 +21,4 @@ Os resultados, assim que processados ficarão à disposição na pasta resultado
 ## Referências
 
 * https://geoscripting-wur.github.io/PythonRaster/
-* 
+* https://www.mdpi.com/2072-4292/12/10/1544/pdf
