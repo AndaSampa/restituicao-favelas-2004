@@ -1,0 +1,44 @@
+<PAMDataset>
+  <SRS>PROJCS["unnamed",GEOGCS["unnamed",DATUM["unknown",SPHEROID["unretrievable - using WGS84",6378137,"298,257223563"]],PRIMEM["Greenwich",0],UNIT[,"0,0174532925199433"],AUTHORITY["EPSG","-32768"]],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AUTHORITY["EPSG","-32768"]]</SRS>
+  <GeoTransform> 3.3369847450000001e+005, 1.2500000000000000e-001, 0.0000000000000000e+000, 7.3857671826999998e+006, 0.0000000000000000e+000,-1.2500000000000000e-001</GeoTransform>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="COMPRESSION">JPEG</MDI>
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+    <MDI key="SOURCE_COLOR_SPACE">YCbCr</MDI>
+  </Metadata>
+  <Metadata>
+    <MDI key="GEOTIFF_CHAR__GeographicTypeGeoKey">Unknown-32768</MDI>
+    <MDI key="GEOTIFF_CHAR__GTModelTypeGeoKey">ModelTypeProjected</MDI>
+    <MDI key="GEOTIFF_CHAR__ProjCoordTransGeoKey">User-Defined</MDI>
+    <MDI key="GEOTIFF_CHAR__ProjectedCSTypeGeoKey">Unknown-32768</MDI>
+    <MDI key="GEOTIFF_CHAR__ProjectionGeoKey">Unknown-32768</MDI>
+    <MDI key="GEOTIFF_CHAR__ProjLinearUnitsGeoKey">Linear_Meter</MDI>
+    <MDI key="GEOTIFF_NUM__1024__GTModelTypeGeoKey">1</MDI>
+    <MDI key="GEOTIFF_NUM__2048__GeographicTypeGeoKey">32768</MDI>
+    <MDI key="GEOTIFF_NUM__3072__ProjectedCSTypeGeoKey">32768</MDI>
+    <MDI key="GEOTIFF_NUM__3073__PCSCitationGeoKey">User defined (Default value)</MDI>
+    <MDI key="GEOTIFF_NUM__3074__ProjectionGeoKey">32768</MDI>
+    <MDI key="GEOTIFF_NUM__3075__ProjCoordTransGeoKey">32767</MDI>
+    <MDI key="GEOTIFF_NUM__3076__ProjLinearUnitsGeoKey">9001</MDI>
+    <MDI key="IMAGE__ENCODING_APPLICATION">GeoExpress 6.0.0.1331</MDI>
+    <MDI key="IMAGE__INPUT_FILE_SIZE">67243320.000000</MDI>
+    <MDI key="IMAGE__INPUT_FORMAT">GeoTIFF</MDI>
+    <MDI key="IMAGE__INPUT_NAME">E:\MDT_ortofoto\aprov so mdt\3332-2\1O_3332-234_060928.tif</MDI>
+    <MDI key="VERSION">MG3</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">JPEG</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">JPEG</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">JPEG</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
