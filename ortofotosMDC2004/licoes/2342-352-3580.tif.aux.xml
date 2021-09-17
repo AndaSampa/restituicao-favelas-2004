@@ -1,6 +1,6 @@
 <PAMDataset>
   <SRS dataAxisToSRSAxisMapping="1,2">PROJCS["SAD69(96) / UTM zone 23S",GEOGCS["SAD69(96)",DATUM["South_American_Datum_1969_96",SPHEROID["GRS 1967 Modified",6378160,298.25,AUTHORITY["EPSG","7050"]],TOWGS84[-67.35,3.88,-38.22,0,0,0,0],AUTHORITY["EPSG","1075"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AUTHORITY["EPSG","5527"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",-45],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",10000000],UNIT["metre",1,AUTHORITY["EPSG","9001"]],AXIS["Easting",EAST],AXIS["Northing",NORTH],AUTHORITY["EPSG","5533"]]</SRS>
-  <GeoTransform>  3.1703857400000002e+05,  1.2500000000000000e-01,  0.0000000000000000e+00,  7.3825437900000000e+06,  0.0000000000000000e+00,  1.2500000000000000e-01</GeoTransform>
+  <GeoTransform>  3.1703869197232253e+05,  1.2500000000000000e-01,  0.0000000000000000e+00,  7.3821912748234784e+06,  0.0000000000000000e+00, -1.2500000000000000e-01</GeoTransform>
   <Metadata domain="IMAGE_STRUCTURE">
     <MDI key="COMPRESSION">JPEG</MDI>
     <MDI key="INTERLEAVE">PIXEL</MDI>
@@ -10,15 +10,36 @@
     <Metadata domain="IMAGE_STRUCTURE">
       <MDI key="COMPRESSION">JPEG</MDI>
     </Metadata>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">251</MDI>
+      <MDI key="STATISTICS_MEAN">115.56977844238</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">50.511730818741</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
   </PAMRasterBand>
   <PAMRasterBand band="2">
     <Metadata domain="IMAGE_STRUCTURE">
       <MDI key="COMPRESSION">JPEG</MDI>
     </Metadata>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">122.13938903809</MDI>
+      <MDI key="STATISTICS_MINIMUM">5</MDI>
+      <MDI key="STATISTICS_STDDEV">49.13382549359</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
   </PAMRasterBand>
   <PAMRasterBand band="3">
     <Metadata domain="IMAGE_STRUCTURE">
       <MDI key="COMPRESSION">JPEG</MDI>
+    </Metadata>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">255</MDI>
+      <MDI key="STATISTICS_MEAN">115.91653442383</MDI>
+      <MDI key="STATISTICS_MINIMUM">1</MDI>
+      <MDI key="STATISTICS_STDDEV">49.947072426676</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
     </Metadata>
   </PAMRasterBand>
 </PAMDataset>
